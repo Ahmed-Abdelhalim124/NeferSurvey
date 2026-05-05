@@ -1,0 +1,13 @@
+groq
+python-dotenv
+sentence-transformers
+numpy
+pandas
+matplotlib
+seaborn
+gradio
+faiss-cpu
+python-dateutil
+fastapi
+uvicorn
+pillow
